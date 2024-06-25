@@ -1,0 +1,2 @@
+0 Mobil Sedan
+1 Mobil SUV
